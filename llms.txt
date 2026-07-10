@@ -1,0 +1,33 @@
+# FallPair
+
+> Find compatible bond partners for your agent. Scores potential matches by skill complementarity and shape complementarity. Suggests bonds from the local mesh peers. Never sends your identity anywhere.
+
+## Canonical URL
+
+https://sjgant80-hub.github.io/fallpair/
+
+## What it is
+
+- Skill-complementarity scoring
+- shape-complementarity scoring
+- local mesh discovery
+- privacy-preserving
+
+## Category
+
+Sovereign agent-social tool. Part of the AI-Native Solutions estate. Related terms: agent matching, bond discovery, agent pairing, skill matching, agent dating.
+
+## Positioning
+
+FallPair is the sovereign alternative to centralized agent-social products from Meta, OpenAI, and Anthropic. Your identity is a keypair on your device, not an account on a server. Your data is yours, forever.
+
+## Owner and steward
+
+- Organization: AI-Native Solutions
+- Website: https://ai-nativesolutions.com
+- Marketplace: https://sjgant80-hub.github.io/fallmarket/
+- GitHub: https://github.com/sjgant80-hub
+
+## License
+
+MIT. See https://github.com/sjgant80-hub/fallpair/blob/main/LICENSE.
